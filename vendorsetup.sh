@@ -1,0 +1,1 @@
+add_lunch_combo cos_Z00L-userdebug
